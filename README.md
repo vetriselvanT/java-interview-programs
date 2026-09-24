@@ -53,3 +53,8 @@ I’m solving and sharing Java interview problems as part of my ongoing technica
 More problems coming soon. 🚀
 
 ⭐ If you find this repository useful, feel free to star it.
+## 🧩 Problems
+
+| # | Problem | Topic | Difficulty |
+|---|---|---|---|
+| 01 | Reverse a String Without Using a Built-in Reverse Function | String | Easy |
